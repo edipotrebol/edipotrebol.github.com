@@ -1,0 +1,52 @@
+---
+layout: default
+title: edipotrebol
+---
+
+<div class="content pure-u-1">
+    {% for post in paginator.posts %}
+        <section class="post pure-u-1">
+            <header class="post-header">
+              <!--<img class="post-avatar"
+                   alt="Eric Ferraiuolo's avatar" src="/img/common/ericf-avatar.png"
+                   height="48" width="48">-->
+                   <!--<div class="post-icon"><i class="icon-thumbs-up"></i></div>-->
+              <h2 class="post-title pure-u-1"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+              <p class="post-meta pure-u-1">
+                {% if post.categories %}
+                    {% for tag in post.categories %}
+                        <a class="post-category" href="">{{ tag }}</a>
+                    {% endfor %}
+                {% endif %}
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                  {{ post.date | date_to_string }}
+                </time>
+              </p>
+            </header>
+            <div class="post-description pure-u-1">
+              <p>
+                {% if post.content contains '<!--more-->' %}
+                  {{ post.content | split:'<!--more-->' | first }}
+                {% else %}
+                    <!-- Case for when no excerpt is defined -->
+                {% endif %}
+              </p>
+            </div>
+        </section>
+    {% endfor %}
+
+    <!-- Pagination links -->
+    <div id="pagination-links">
+      {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+        <div class="paginate-icon left"><a href="/"><i class="icon-chevron-left"></i></a></div>
+        {% else %}
+        <div class="post-icon left" style="float:left;"><a href="{{ paginator.previous_page_path }}"><i class="icon-chevron-left"></i></a></div>
+        {% endif %}
+      {% endif %}  
+      {% if paginator.next_page %}
+        <div class="paginate-icon right"><a href="{{ paginator.next_page_path }}"><i class="icon-chevron-right"></i></a></div>
+      {% endif %}
+    </div>
+
+</div>

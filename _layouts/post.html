@@ -1,0 +1,29 @@
+---
+layout: default
+---
+<div class="content pure-u-1"> 
+  <section class="post pure-u-1">
+     <header class="post-header">
+          <!--<img class="post-avatar"
+               alt="Eric Ferraiuolo's avatar" src="/img/common/ericf-avatar.png"
+               height="48" width="48">-->
+               <div class="post-icon"><a href=".."><i class="icon-chevron-left"></i></a></div>
+          <h2 class="post-title pure-u-1">{{ page.title }}</h2>
+          <p class="post-meta pure-u-1">
+                {% if page.categories %}
+                {% for tag in page.categories %}
+                    <a class="post-category" href="">{{ tag }}</a>
+                {% endfor %}
+              {% endif %}
+              <time datetime="{{ page.date | date_to_xmlschema }}">
+                {{ page.date | date_to_string }}
+              </time>
+          </p>
+      </header>
+      <div class="post-description pure-u-1">
+          <p>
+            {{ content }}
+          </p>
+      </div>
+  </section>
+</div>
