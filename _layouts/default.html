@@ -14,6 +14,7 @@
         <link rel="stylesheet" href="/css/pure-min.css">
         <link rel="stylesheet" href="/css/font-awesome.min.css">
         <link rel="stylesheet" href="/css/font-awesome-ie7.min.css">
+        <link rel="stylesheet" href="/css/animate-custom.css">
 
     </head>
     <body>
@@ -24,36 +25,41 @@
                 <div class="sidebar pure-u">
                     <header class="header pure-u-1">
                         <hgroup>
-                            <a href="/"><h1 class="brand-title">edipotrebol</h1></a>
-                            <h2 class="brand-tagline">Vendo numeros primos</h2>
+                            <a href="/"><h1 id="digital-name" class="brand-title">edipotrebol</h1></a>
+                            <h2 class="brand-tagline">I sell prime numbers</h2>
                         </hgroup>
 
-                        <!-- <nav class="nav">
+                        <nav class="nav">
                             <ul class="nav-list">
                                 <li class="nav-item">
-                                    <a class="pure-button" href="blog">All</a>
+                                    <a class="pure-button" href="/">Blog</a>
                                 </li>
-                                <li class="nav-item">
+                                <!-- <li class="nav-item">
                                     <a class="pure-button" href="about.html">About</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="pure-button" href="me.html">Me</a>
+                                </li> -->
+                                <li id="nav-me" class="nav-item">
+                                    <a class="pure-button" href="/me.html">Me</a>
                                 </li>
                             </ul>
-                        </nav> -->
+                        </nav>
                     </header>
                 </div>
             </header>
 
             {{ content }}
 
-          <!-- <footer>
-            Powered by ...
-          </footer> -->
-
         </div>
 
     </div>
+
+    <script type="text/javascript" src="/js/jquery-1.10.2.min.js"></script>
+
+    <script type="text/javascript">
+        // $('#nav-me').click(function() {
+        //     $('#digital-name').addClass('animated fadeOutLeftBig');
+        //     $('#analog-name').addClass('animated fadeInRightBig');
+        // });
+</script>
 
   </body>
 </html>

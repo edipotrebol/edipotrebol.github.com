@@ -33,7 +33,7 @@ a {
 }
 a:hover,
 a:focus {
-    /*text-decoration: underline;*/
+    text-decoration: underline;
 }
 
 /* LAYOUT CSS */
@@ -201,6 +201,20 @@ a.post-category {
     text-shadow: 0 1px 1px #333;
 }
 
+.me-header {
+    color: #51611E;
+    background-color: #D6E99A;
+    padding: 1em 1em;
+    text-align: center;
+}
+
+.me-header h1 {
+    color: #333;
+}
+.me-content {
+    padding: 1em 1em;
+}
+
 .footer {
     text-align: center;
     padding: 1em 0;
@@ -212,6 +226,10 @@ a.post-category {
 .footer .pure-menu a:hover,
 .footer .pure-menu a:focus {
     background: none;
+}
+
+#email:before {
+    content: 'edipotrebol@gmail.com';
 }
 
 @media (max-width: 767px) {
