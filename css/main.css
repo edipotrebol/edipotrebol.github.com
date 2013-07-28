@@ -161,6 +161,9 @@ a:focus {
     color: #444;
     line-height: 1.8em;
 }
+#disqus_thread {
+    margin-top: 2em;
+}
 .post-meta {
     color: #AFC46A;
     font-size: 90%;
