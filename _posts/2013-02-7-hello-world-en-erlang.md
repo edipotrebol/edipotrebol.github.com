@@ -9,8 +9,8 @@ Erlang es un lenguaje de programacion usado para construir sistemas fácilmente 
 
 {% highlight erlang %}
 -module(hello).
--export([hello/0]).
-hello() -> io:format("Hello World!~n", []).
+-export(\[hello/0\]).
+hello() -> io:format("Hello World!~n", \[\]).
 {% endhighlight %}
 
 Dado esto, queda oficialmente inaugurado mi blog que por cierto he decidido usar para el un sistema basado en documentos como Jekyll implementa pero usando la gran plataforma JekyllHub.

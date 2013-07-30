@@ -1,5 +1,5 @@
 name: edipotrebol
 pygments: true
-timezone: Aurope/Madrid
+timezone: Europe/Madrid
 permalink: /:title
 paginate: 5

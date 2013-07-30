@@ -2,7 +2,7 @@
 layout: post
 title: "El Proyecto Colibri"
 date: "2013-03-12"
-categories: opendata opengov code
+categories: proyectocolibri opendata code
 ---
 
 Hoy 12 de marzo de 2013 arranca el [Proyecto Colibri](http://proyectocolibri.es/). Este proyecto se engloba dentro del trabajo altruista que el grupo ciudadano [Openkratio](http://openkratio.org) realiza.<!--more--> En el mismo, tanto [@ewokcillo](https://twitter.com/ewokcillo) como yo hemos intentado ofrecerle a lxs periodistas y a lxs programadorxs una herramienta de trabajo para conocer toda la informacion relacionada con el Congreso de los Diputados del Estado Español.
