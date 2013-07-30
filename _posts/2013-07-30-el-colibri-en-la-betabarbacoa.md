@@ -15,4 +15,4 @@ En el mismo evento me enconté con charlas muy interesantes sobre C# y Scala en 
 
 En el mismo evento me enconté con charlas muy interesantes sobre C# y Scala en las que descubrí, por esta útima, líneas de trabajo bastante interesantes a abrir como las impresionantes instrucciones *inline* en las que se realizan cuatro o cinco operaciones de procesamiento de datos en una misma sentencia con una alta legibilidad. Y ni hablar de sus capacidades de procesamiento paralelo. Lo que digo, un mundo a explorar.
 
-En resumen, un gran evento que dió pie a comenzar un fin de semana de relax en Cádiz después de ver la gran asistencia con la que contó y, lo máß importante, el gran interés de los asistentes. Por último [os dejo aquí mi presentación](http://kcy.me/p2g4) para que la compartáis.
+En resumen, un gran evento que dió pie a comenzar un fin de semana de relax en Cádiz después de ver la gran asistencia con la que contó y, lo más importante, el gran interés de los asistentes. Por último [os dejo aquí mi presentación](http://kcy.me/p2g4) para que la compartáis.
