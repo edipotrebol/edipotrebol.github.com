@@ -175,6 +175,21 @@ a:focus {
     color: #444;
     line-height: 1.8em;
 }
+.openkratio-advice {
+    font-family: Georgia, "Cambria", serif;
+    line-height: 2em;
+    text-align: center;
+    font-style: italic;
+    border-bottom: 1px solid #eeeec1;
+    padding: 0.4em 0;
+    letter-spacing: 0.1em;
+}
+.openkratio-advice a {
+    color: #AFC46A;
+}
+.openkratio-advice a .icon {
+    color: #AFC46A;
+}
 .me-bio {
     font-family: Georgia, "Cambria", serif;
     color: #444;
