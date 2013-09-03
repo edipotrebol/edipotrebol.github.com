@@ -1,8 +1,11 @@
 ---
-published: false
+layout: post
+title: "De 2013 el 3 de septiembre"
+date: "2013-09-03"
+categories: personal reflexion
 ---
 
-**De 2013 me quedo con el 3 de septiembre**. Y es que aparte de lo motivante que es esta fecha en la que se puede decir que acaba el verano... además **ES MI CUMPLEAÑOS**.
+**De 2013 me quedo con el 3 de septiembre**. Y es que aparte de lo motivante que es esta fecha en la que se puede decir que acaba el verano... además **ES MI CUMPLEAÑOS**.<!--more-->
 
 	me.age += 1
 
