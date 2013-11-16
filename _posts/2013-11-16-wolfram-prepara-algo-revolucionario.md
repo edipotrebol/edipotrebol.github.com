@@ -2,7 +2,7 @@
 layout: post
 title: "Wolfram prepara algo revolucionario"
 date: "2013-11-16"
-categories: computacion lenguajes artificialintelligence
+categories: computacion lenguajes inteligenciaartificial
 ---
 
 Podríamos empezar este post hablando sobre [Wolfram Research](http://www.wolfram.com/ "Página web de Wolfram Research") o sobre su fundador [Stephen Wolfram](http://es.wikipedia.org/wiki/Stephen_Wolfram "Stephen Wolfram en Wikipedia"). Ambos comienzos serían realmente maravillosos y futuristas. Y es que no puedo ocultar el respeto que le tengo a todo el trabajo que en ese entorno se genera.<!--more-->
