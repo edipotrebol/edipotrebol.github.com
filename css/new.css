@@ -1,6 +1,6 @@
 /*
     Colours from:
-    http://www.colourlovers.com/palette/108476/Tiger_Lily
+    http://www.colourlovers.com/palette/712051/!_!
 */
 * {
   margin: 0;
@@ -93,11 +93,11 @@ a:focus {
   -ms-transform: skew(0, -2deg);
   -o-transform: skew(0, -2deg);
   transform: skew(0, -2deg);
-  box-shadow: 2px 2px 6px rgba(255, 255, 255, 0.4); }
+  box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.75); }
 
 .brand-tagline {
   font-weight: 300;
-  color: #f0ddaa; }
+  color: white; }
 
 .nav-list {
   margin: 0;
@@ -111,8 +111,8 @@ a:focus {
 
 .nav-item a {
   background: transparent;
-  border: 3px solid #e47c5d;
-  color: #e47c5d;
+  border: 3px solid white;
+  color: white;
   margin-top: 1em; }
 
 .nav-item a:hover,

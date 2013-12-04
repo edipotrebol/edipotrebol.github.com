@@ -7,8 +7,7 @@ $cbackground: #ffffff;
 $cfont: #111111;
 $csidebarbg: #152B3C;
 $csidebarfg1: #E32D40;
-$csidebarfg2: #F0DDAA;
-$csidebarfg3: #E47C5D;
+$csidebarfg2: #ffffff;
 $clabelbg: #59B390;
 $clabelfg: #ffffff;
 
@@ -115,11 +114,10 @@ a:focus {
     -ms-transform: skew(0, -2deg);
     -o-transform: skew(0, -2deg);
     transform: skew(0, -2deg);
-    box-shadow: 2px 2px 6px rgba(255, 255, 255, 0.4);
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.75);
 }
 .brand-tagline {
     font-weight: 300;
-
     color: $csidebarfg2;
 }
 
@@ -135,8 +133,8 @@ a:focus {
 }
 .nav-item a {
     background: transparent;
-    border: 3px solid $csidebarfg3;
-    color: $csidebarfg3;
+    border: 3px solid $csidebarfg2;
+    color: $csidebarfg2;
     margin-top: 1em;
 }
 .nav-item a:hover,
