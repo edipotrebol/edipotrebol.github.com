@@ -7,6 +7,7 @@ categories: proyectocolibri opendata
 
 *Transcipción de mi artículo publicado en el libro "Parlamentos abiertos a la sociedad: participación y monitorización". Dicho libro puede ser descargado en los siguientes enlaces: [PDF](http://www.scribd.com/doc/193040573/Parlamentos-abiertos-a-la-sociedad-Participacion-y-monitorizacion "Libro en PDF") y [ePub](http://www.bubok.es/libros/230035/Parlamentos-abiertos "Libro en ePub")*
 <!--more-->
+---
 
 Todo gira en torno al mismo principio: el derecho de acceso a la información. Y sobre este empieza el trabajo, la ardua tarea de hacer transparente lo opaco, de hacer comprensible el entramado burocrático y de acercar a la ciudadanía los datos para su tratamiento y estudio.
 
