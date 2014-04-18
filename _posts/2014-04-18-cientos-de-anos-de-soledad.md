@@ -21,4 +21,4 @@ Gracias Gabriel. A la familia mi más sentido pésame. Y al resto os animo a des
 
 Gracias Gabriel, por todo.
 
-(**Gabriel García Márquez fallece el 17 de abril de 2014**)
+**Gabriel García Márquez fallece el 17 de abril de 2014**
