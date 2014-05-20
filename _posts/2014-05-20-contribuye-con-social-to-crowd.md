@@ -11,7 +11,7 @@ Como creo que sabéis no puedo estarme quieto. Me he dispuesto a cambiar este in
 
 Desde [nuestra línea más social](http://enreda.coop/eris) y con el fin de buscar modelos solidarios que empoderen a la ciudadanía, esta semana hemos lanzado una campaña de microdonaciones (crowdfunding) en [Goteo](http://goteo.org/project/social-to-crowd) para poder construir una Plataforma de solidaridad directa entre organizaciones y personas. Se llama [**Social to Crowd**](http://socialtocrowd.org), el **"crowdfunding de las cosas"**.
 
-
+!["Social to Crowd Logo"](http://edipotrebol.es/img/posts/stc.png)
 
 Os pido ayuda! Colaborad con lo que podais. Compartirlo por redes sociales o por correo electrónico o llamad directamente a vuestra madre/padre/hermana/cuñada y animadla a contribuir al cambio. Hay muchas personas que necesitan cosas y nosotras queremos hacérselas llegar.
 
