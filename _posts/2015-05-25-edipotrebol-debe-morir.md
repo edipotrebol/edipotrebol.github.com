@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "edipotrebol debe morir"
-date: "2015-05-26"
+date: "2015-05-25"
 categories: personal
 ---
 
